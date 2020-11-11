@@ -52,7 +52,7 @@ Le programme répondra de lui même qu’il y a eu X notes de saisies et que la 
 
 __1ere variante  (optionnelle)__
 
-À la saisie des notes, au lieu de saisir note par note, on saisie toutes les notes sur une seule saisie séparée par des espaces, la validation vaudrait l’envoi des note.
+À la saisie des notes, au lieu de saisir note par note, on saisie toutes les notes sur une seule saisie séparée par des espaces, la validation vaudrait l’envoi des notes.
 
 __2eme variante (optonnelle)__
 

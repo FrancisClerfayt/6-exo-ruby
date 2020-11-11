@@ -37,7 +37,7 @@ end
 # we call the prompt function
 grades = promptGrades()
 # we print the number of grades
-puts "il y a eu #{grades.size} notes saisies"
+puts "il y a eu #{grades.length} notes saisies"
 # we call the average function
 result = average(grades)
 # we print the result
