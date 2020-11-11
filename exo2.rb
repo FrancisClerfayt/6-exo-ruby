@@ -2,6 +2,7 @@
 # L'utilisateur renseigne un chiffre
 # Le script affichera la table de multiplication
 
+
 # On affiche une phrase pour demander le chiffre
 puts 'Entrez un chiffre : '
 # On récupère la chaine contenant le chiffre que l'on tranforme en entier
