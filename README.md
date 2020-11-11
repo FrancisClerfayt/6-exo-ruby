@@ -1,6 +1,6 @@
 ## Exercices Ruby.
 
-## Exo 1 - Le palindrone
+## Exo 1 - Le palindrome
 
 Le script Ruby permettra de saisir un mot et de vérifier que ce mot est un palindrome.
 
