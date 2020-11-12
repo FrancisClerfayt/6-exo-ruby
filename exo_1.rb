@@ -4,8 +4,8 @@
 
 # We display a sentence to ask for the word
 puts 'Entrez le mot à vérifier : '
-# we retrieve the word and remove the line break
-mot = gets.chomp
+# we retrieve the word and remove the line break and transform it to lower case
+mot = gets.chomp.downcase
 # we reverse the word
 reverse = mot.reverse
 # if the word and its reverse are equal

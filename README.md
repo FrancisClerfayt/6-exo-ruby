@@ -76,13 +76,17 @@ Exemple `Z = 26 = 2+6 = 8`
 Quelques soit les lettres autour.
 
 Example complet :
-> D A V I D  =
->
+> d a v i d  =
 > 4_1_22_9_4 =
->
-> 4 + (2+2) + 9 + 4 =
->
+> 4 + 1 + (2+2) + 9 + 4 =
+> 4 + 1 + 4 + 9 + 4 =
 > 21
+>
+> D A V I D =
+> 8_2_44_18_8 =
+> 8 + 2 + (4+4) + (1+8) + 8 =
+> 8 + 2 + 8 + 9 + 8 =
+> 35
 
 **Pour les plus chauds** :
 On pourra imaginer de faire un poids de la lettre * 2 si c’est une lettre majuscule.
