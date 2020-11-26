@@ -11,14 +11,14 @@ def promptGrades()
 		# we recover the input
 		prompt = gets.chomp
 		# we match the entry to a decimal number with 2 digits before the decimal point
-		if !!(prompt.match(/[0-9]{2}(\.[0-9]*)?/))
+		if !!(prompt.match(/[0-9]{1,2}(\.[0-9]*)?/))
 			# if the entry is decimal
-			if !!(prompt.match(/[0-9]{2}\.[0-9]*/))
+			if !!(prompt.match(/[0-9]{1,2}\.[0-9]*/))
 				# we add to the array using to float
-				grades.push(prompt.match(/[0-9]{2}\.[0-9]*/).to_s.to_f)
+				grades.push(prompt.match(/[0-9]{1,2}\.[0-9]*/).to_s.to_f)
 			else
 				# otherwise we add using to integer
-				grades.push(prompt.match(/[0-9]{2}/).to_s.to_i)
+				grades.push(prompt.match(/[0-9]{1,2}/).to_s.to_i)
 			end
 		end
 	end
